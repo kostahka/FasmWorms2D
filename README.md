@@ -1,6 +1,10 @@
 # FasmWorms2D
 2d game similar to worms armageddon
 
+Code: FASM
+
+Shaders: GLSL
+
 Size of game - 20480 bytes
 
 Controls:
